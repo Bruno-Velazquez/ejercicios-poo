@@ -1,0 +1,46 @@
+1-¿Qué es un objeto en JavaScript?
+En JavaScript, un objeto es una estructura que 
+permite guardar datos y funcionalidades relacionadas en un mismo lugar.
+
+2-¿Qué diferencia hay entre clase y objeto?
+La diferencia es que una clase es un modelo o plantilla, 
+mientras que un objeto es una instancia creada a partir de esa clase.
+
+3-¿Qué es un prototipo?
+Un prototipo es un objeto del cual hereda propiedades y métodos
+
+4-¿Qué hace la palabra new?
+New crea un objeto nuevo usando una clase o función constructora.
+
+5-¿Por qué JS no es realmente orientado a clases?
+JavaScript no es realmente orientado a clases porque 
+su sistema de herencia está basado en prototipos y no en clases reales.
+
+6-¿Qué diferencia hay entre:
+método dentro del constructor?
+Cada objeto crea una copia.
+
+método en prototype?
+Todos los objetos comparten el mismo método.
+
+7-¿Qué hace extends?
+Extends permite que una clase herede propiedades y métodos de otra clase.
+
+8-¿Para qué sirve super()?
+Super() llama al constructor de la clase padre.
+
+9¿Qué es la prototype chain?
+La prototype chain es la cadena de objetos que 
+JavaScript recorre para buscar propiedades y métodos.
+
+10-¿Cuándo conviene usar POO y cuándo no?
+Usá POO cuando el sistema sea grande, tenga entidades complejas
+y necesites organización y reutilización.
+
+11-¿Qué ventaja tiene sobre código “normal”?
+La POO permite organizar mejor el código, 
+reutilizar funcionalidades y representar entidades reales mediante objetos.
+
+12-¿Qué problema resuelve la herencia?
+La herencia resuelve el problema de repetir código y permite reutilizar 
+propiedades y métodos entre clases relacionadas.
